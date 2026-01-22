@@ -2,8 +2,8 @@ replicas: 1
 appName: "site-traiteur"
 
 image:
-  registry: "gorinje"
-  name: "site-traiteur"
-  tag: "latest"
+  registry: "ghcr.io/malekbenyounes"
+  name: "site-traiteur-app"
+  tag: "dev"
 
 servicePort: 8000
