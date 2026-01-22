@@ -1,0 +1,9 @@
+replicas: 1
+appName: "site-traiteur"
+
+image:
+  registry: "gorinje"
+  name: "site-traiteur"
+  tag: "latest"
+
+servicePort: 8000
